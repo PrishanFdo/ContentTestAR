@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sofa Set
+* source:	https://sketchfab.com/3d-models/sofa-set-47267dcf929946c1816932b6961f83a2
+* author:	praveen maurya (https://sketchfab.com/praveen293027)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sofa Set" (https://sketchfab.com/3d-models/sofa-set-47267dcf929946c1816932b6961f83a2) by praveen maurya (https://sketchfab.com/praveen293027) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
